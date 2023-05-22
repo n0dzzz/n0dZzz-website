@@ -1,0 +1,56 @@
+:root{
+    background-color: black;
+    font-family: 'VT323', monospace;
+    color: white;
+}
+
+a{
+    color: lime;
+}
+
+.Name{
+    position: fixed;
+    left: 170px;
+    top: 55px;
+    font-size: 35px;
+}
+
+.Bio{
+    position: fixed;
+    left: 190px;
+    top: 95px;
+    font-size: 25px;
+}
+
+.Bio2{
+    position: fixed;
+    left: 190px;
+    top: 120px;
+    font-size: 25px;
+}
+
+.Projects
+{
+    position: fixed;
+    left: 170px;
+    top: 185px;
+    font-size: 30px;
+}
+
+.ZombieRising
+{
+    position: fixed;
+    left: 170px;
+    top: 250px;
+    outline: auto;
+    outline-color: lime;
+}
+
+.UnityZombies
+{
+    position: fixed;
+    left: 995px;
+    top: 250px;
+    outline: auto;
+    outline-color: lime;
+}
